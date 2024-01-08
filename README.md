@@ -16,11 +16,6 @@ Feel free to contact me on Telegram to talk about tech or music.👐
 
 <img align="right" height="250" width="385" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-<div style="background-color: blue; padding: 10px;">
-    <p>👾 &nbsp; Fun fact: Python is not just a programming language; it's filled with Easter eggs🥚. For example, try ```import this``` in your Python interpreter for some hidden wisdom! 🎩🪄
-</p>
-</div>
-
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Python(Django, Pandas, scikit-learn, etc.)
