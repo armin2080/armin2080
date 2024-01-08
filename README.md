@@ -14,15 +14,15 @@ I'm an explorer of new tech, an avid learner, and a natural problem-solver. When
 
 Feel free to contact me on Telegram to talk about tech or music.👐
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="385" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+> 👾 &nbsp; Fun fact: Python is not just a programming language; it's filled with Easter eggs🥚. For example, try ```import this``` in your Python interpreter for some hidden wisdom! 🎩🪄
 
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with Python(Django, Pandas, scikit-learn, etc.)
 - 🚀 &nbsp; I’m currently exploring Machine Learning and AI
 - 📫 &nbsp; Reach me out: arminmaddah.a@gmail.com.
-
-👾 &nbsp; Fun fact: Python is not just a programming language; it's filled with Easter eggs🥚. For example, try ```import this``` in your Python interpreter for some hidden wisdom! 🎩🪄
 
 ### My Absolute Favorites:
 
