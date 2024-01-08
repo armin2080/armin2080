@@ -22,6 +22,4 @@ Feel free to contact me on Telegram to talk about tech or music.👐
 - 🚀 &nbsp; I’m currently exploring Machine Learning and AI
 - 📫 &nbsp; Reach me out: arminmaddah.a@gmail.com.
 
-Python is not just a programming language; it's filled with Easter eggs. For example, try ```python
-import this
-``` in your Python interpreter for some hidden wisdom.
+Python is not just a programming language; it's filled with Easter eggs. For example, try ```import this``` in your Python interpreter for some hidden wisdom.
