@@ -1,33 +1,43 @@
 ### Hi there 👋, I'm [Armin](https://github.com/armin2080)!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-maddah-493838219/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/armin-maddah-493838219/](https://www.linkedin.com/in/armin-maddah-asl-493838219/))
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/armin_2080)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_armin.2080_/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=armin2080.armin2080&style=flat-square&color=0088cc)
+# Welcome to My GitHub Profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=armin2080.armin2080&style=flat-square&color=0088cc)
 
-I'm a Computer Science Student and Python Programmer 💻
+I'm a Data Science Master's Student and Python Programmer 💻
 
-I love solving problems and thinking outside the box, always motivated by a sense of purpose and the thrill of tackling challenges. I have a strong foundation in Python, MySQL, Postgres, Django Web Framework, Data Analytics, etc. My experience includes working as a Backend Developer, Data Analyst, and Machine Learning Researcher.
+I thrive on solving problems, thinking creatively, and learning continuously. With a solid background in Python, Databases, Web Development (Django), and Data Science, I've worked on exciting projects as a Backend Developer, Data Analyst, and Machine Learning Researcher.
 
-I'm an explorer of new tech, an avid learner, and a natural problem-solver. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity. Alongside my tech passion, I'm also an accomplished pianist. 😎🎹
+Currently, I'm expanding my expertise in data science, exploring machine learning, data analysis and building innovative web-based solutions. I'm passionate about creating impactful projects and diving deep into new technologies. Alongside my professional pursuits, I’m a dedicated pianist 🎹, and I enjoy exploring the world of music in my free time.
 
-Feel free to contact me on Telegram to talk about tech or music.👐
+Feel free to connect with me on Telegram or email me if you'd like to discuss tech, data, or music. 👐
 
-<img align="right" height="250" width="385" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="385" alt="Coder Gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### Talking about Personal Stuff:
+---
 
-- 🛠 &nbsp; I’m currently working with Python(Django, Pandas, scikit-learn, etc.)
-- 🚀 &nbsp; I’m currently exploring Machine Learning and AI
-- 📫 &nbsp; Reach me out: arminmaddah.a@gmail.com.
+## A Little About Me:
 
-### My Absolute Favorites:
+- 🛠 &nbsp; I’m currently working with Python (Django, Pandas, scikit-learn, etc.) and Data Analytics tools.
+- 🚀 &nbsp; I’m focusing on Machine Learning, Data Science, and AI applications.
+- 🌍 &nbsp; Based in Dortmund, Germany, exploring new opportunities and challenges.
+- 📫 &nbsp; Reach me at: **arminmaddah.a@gmail.com**
 
-- 💡 &nbsp; I love exploring new technologies and learning cool stuff.
-- 💻 &nbsp; I love working with Linux OS.
-- 🎵 &nbsp; Even when I'm coding, I never stop listening to music.
-- 🎮 &nbsp; I enjoy playing video games on my free time.
+---
+
+## My Interests:
+
+- 💡 &nbsp; Always curious about exploring new technologies and solving real-world problems.
+- 📊 &nbsp; Passionate about analyzing data and generating insights through dashboards.
+- 💻 &nbsp; A fan of Linux OS and open-source technologies.
+- 🎵 &nbsp; Music fuels my creativity, and I'm a classically trained pianist.
+- ⚽ &nbsp; A football enthusiast.
+
+---
+
+I look forward to collaborating with like-minded people on innovative and impactful projects. Let’s build something amazing together!
 
 ### Languages and Tools:
 
