@@ -1,12 +1,9 @@
+# <div align="center"> Hello, I'm [Armin](https://github.com/armin2080)👋 </div>
+![image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=armin2080&theme=radical&hide_border=false"/>
 </div>
-
-
-# <div align="center"> Hello, I'm [Armin](https://github.com/armin2080)👋 </div>
-![image](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
 
 # 💫 About Me:
 💻 I'm currently working on Sports Data Analysis<br>💡 I'm currently learning AWS<br>💬 Happy to chat about AI, data, and practical Python projects<br>🤖 Fun fact: At night, I rest. My Raspberry Pi doesn't. That's the deal!
